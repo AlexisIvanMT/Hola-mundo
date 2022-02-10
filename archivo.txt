@@ -1,0 +1,1 @@
+Para agregar un nuevo archivo debemos poner el nombre y la extension 
